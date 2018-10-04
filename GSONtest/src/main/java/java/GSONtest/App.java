@@ -8,6 +8,8 @@ import com.google.gson.Gson;
  */
 public class App 
 {
+	System.out.println("Welcome to Asia");
+	
 	public static void main(String[] args) {
 	Gson gson = new Gson();
 	String JSON = "[{\"given\": [\"Derek\", \"A\"], \"family\": \"Ryan\"}]";

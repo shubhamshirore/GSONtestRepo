@@ -15,6 +15,8 @@ public class App
 	String JSON = "[{\"given\": [\"Derek\", \"A\"], \"family\": \"Ryan\"}]";
 	Model model = gson.fromJson(JSON, Model.class);
 	
+	System.out.println("Welcome to Maharashtra/India");
+	
 	System.out.println(model);
 	
 	}

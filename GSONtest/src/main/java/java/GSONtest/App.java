@@ -19,11 +19,8 @@ public class App
 	
 	System.out.println(model);
 	
-//<<<<<<< HEAD
-	System.out.println("changes from baharat");
-	System.out.println("changes2 from baharat");
-	System.out.println("changes3 from baharat");
-//=======
+	
+	System.out.println("Harry Potter");
 	
 	System.out.println("Changes From Shubham 1");
 //>>>>>>> refs/heads/local1

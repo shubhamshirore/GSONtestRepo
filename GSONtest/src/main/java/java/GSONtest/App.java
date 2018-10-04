@@ -20,6 +20,8 @@ public class App
 	System.out.println(model);
 	
 	System.out.println("changes from baharat");
+	System.out.println("changes2 from baharat");
+	
 	
 	}
 }

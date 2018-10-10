@@ -19,8 +19,9 @@ public class App
 	
 	System.out.println(model);
 	
-
-	
-	
+	//Multiplication Code :
+	int p = 10;
+	int q = 20;
+	int r = p*q;
 	}
 }

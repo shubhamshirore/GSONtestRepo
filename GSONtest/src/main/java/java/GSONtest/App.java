@@ -19,7 +19,10 @@ public class App
 	
 	System.out.println(model);
 	
-
+	//Addition Code :
+		int a = 10;
+		int b = 20;
+		c=a+b;
 	
 	
 	}

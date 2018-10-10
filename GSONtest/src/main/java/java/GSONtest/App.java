@@ -19,11 +19,18 @@ public class App
 	
 	System.out.println(model);
 	
+//<<<<<<< HEAD
 	//Addition Code :
 		int a = 10;
 		int b = 20;
-		c=a+b;
+		int c=a+b;
 	
 	
+//=======
+	//Multiplication Code :
+	int p = 10;
+	int q = 20;
+	int r = p*q;
+//>>>>>>> refs/heads/TestBranch1
 	}
 }
